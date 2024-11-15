@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kjurg.github.io/doku/presi.html</loc>
-    <lastmod>2024-08-02T15:29:47.795Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kjurg.github.io/doku/comptest.html</loc>
-    <lastmod>2024-08-02T15:29:47.791Z</lastmod>
+    <loc>https://kjurg.github.io/doku/index.html</loc>
+    <lastmod>2024-11-15T17:28:38.749Z</lastmod>
   </url>
   <url>
     <loc>https://kjurg.github.io/doku/about.html</loc>
-    <lastmod>2024-08-02T15:29:47.791Z</lastmod>
+    <lastmod>2024-11-15T17:28:38.741Z</lastmod>
   </url>
   <url>
-    <loc>https://kjurg.github.io/doku/index.html</loc>
-    <lastmod>2024-08-02T15:29:47.795Z</lastmod>
+    <loc>https://kjurg.github.io/doku/comptest.html</loc>
+    <lastmod>2024-11-15T17:28:38.741Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kjurg.github.io/doku/presi.html</loc>
+    <lastmod>2024-11-15T17:28:38.749Z</lastmod>
   </url>
 </urlset>
